@@ -1,0 +1,9 @@
+@import url("https://fonts.googleapis.com/css2?family=Atma:wght@300;400;500;600;700&display=swap");
+@import "tailwindcss";
+
+@theme {
+  --font-primary: "Atma", system-ui;
+}
+body {
+  background-color: rgb(131, 164, 204);
+}
